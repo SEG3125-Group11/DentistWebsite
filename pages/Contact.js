@@ -17,7 +17,6 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // You can add further form submission logic here
     setSubmitted(true);
   };
 
